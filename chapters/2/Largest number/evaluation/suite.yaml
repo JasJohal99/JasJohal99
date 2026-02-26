@@ -2,11 +2,7 @@
   testcases:
   - stdin: |-
       17
-	    42
-	    23
+      42
+      23
     stdout: "42"
-  - stdin: |-
-      9
-	    8
-	    7
-    stdout: "9"
+   
