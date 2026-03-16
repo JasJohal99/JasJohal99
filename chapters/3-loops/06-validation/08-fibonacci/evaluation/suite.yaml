@@ -1,0 +1,8 @@
+- tab: "Fibonacci"
+  testcases:
+    - stdin: "8"
+      stdout: "0\n1\n1\n2\n3\n5\n8\n13"
+    - stdin: "5"
+      stdout: "0\n1\n1\n2\n3"
+    - stdin: "1\n6"
+      stdout: "Invalid! Please enter a number greater than or equal to 2.\n0\n1\n1\n2\n3\n5"

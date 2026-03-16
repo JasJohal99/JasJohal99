@@ -1,0 +1,6 @@
+- tab: "Triangle Numbers"
+  testcases:
+    - stdin: "5"
+      stdout: "1\n3\n6\n10\n15"
+    - stdin: "7"
+      stdout: "1\n3\n6\n10\n15\n21\n28"

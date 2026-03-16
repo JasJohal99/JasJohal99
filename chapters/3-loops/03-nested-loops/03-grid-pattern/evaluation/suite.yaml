@@ -1,0 +1,6 @@
+- tab: "Grid Pattern"
+  testcases:
+    - stdin: "5\n4"
+      stdout: "* * * * *\n* * * * *\n* * * * *\n* * * * *"
+    - stdin: "3\n3"
+      stdout: "* * *\n* * *\n* * *"

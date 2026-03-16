@@ -1,0 +1,9 @@
+total = 0
+count = 0
+number = int(input("Enter a number: "))
+while number != 0:
+    total = total + number
+    count = count + 1
+    number = int(input("Enter a number: "))
+print("The total is", total)
+print("The average is", total / count)

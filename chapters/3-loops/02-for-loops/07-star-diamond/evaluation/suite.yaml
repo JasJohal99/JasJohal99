@@ -1,0 +1,6 @@
+- tab: "Star Diamond"
+  testcases:
+    - stdin: "5"
+      stdout: "*\n**\n***\n****\n*****\n****\n***\n**\n*"
+    - stdin: "3"
+      stdout: "*\n**\n***\n**\n*"

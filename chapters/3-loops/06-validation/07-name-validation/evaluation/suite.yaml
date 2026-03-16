@@ -1,0 +1,8 @@
+- tab: "Name Validation"
+  testcases:
+    - stdin: "Smith\nJohn"
+      stdout: "Hello John Smith, how are you today?"
+    - stdin: "Smith123\nSmith\nJohn"
+      stdout: "Invalid! Please enter letters only.\nHello John Smith, how are you today?"
+    - stdin: "Smith\n123\nJohn"
+      stdout: "Invalid! Please enter letters only.\nHello John Smith, how are you today?"

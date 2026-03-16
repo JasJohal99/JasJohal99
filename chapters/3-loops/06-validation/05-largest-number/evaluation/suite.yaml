@@ -1,0 +1,6 @@
+- tab: "Largest Number"
+  testcases:
+    - stdin: "5\n12\n3\n8\n20\n1\n15\n7"
+      stdout: "The largest number is 20"
+    - stdin: "abc\n5\n12\n3\n8\n20\n1\n15\n7"
+      stdout: "Invalid! Please enter a valid number.\nThe largest number is 20"

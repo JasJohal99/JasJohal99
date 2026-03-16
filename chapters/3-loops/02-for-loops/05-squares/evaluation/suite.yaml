@@ -1,0 +1,6 @@
+- tab: "Squares"
+  testcases:
+    - stdin: "4"
+      stdout: "The square of 1 is 1\nThe square of 2 is 4\nThe square of 3 is 9\nThe square of 4 is 16"
+    - stdin: "6"
+      stdout: "The square of 1 is 1\nThe square of 2 is 4\nThe square of 3 is 9\nThe square of 4 is 16\nThe square of 5 is 25\nThe square of 6 is 36"

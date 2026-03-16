@@ -1,0 +1,6 @@
+- tab: "Prime Numbers"
+  testcases:
+    - stdin: "20"
+      stdout: "2\n3\n5\n7\n11\n13\n17\n19"
+    - stdin: "10"
+      stdout: "2\n3\n5\n7"

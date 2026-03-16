@@ -1,0 +1,6 @@
+- tab: "Smallest Number"
+  testcases:
+    - stdin: "5\n12\n3\n8\n20\n1\n15\n7"
+      stdout: "The smallest number is 1"
+    - stdin: "abc\n5\n12\n3\n8\n20\n1\n15\n7"
+      stdout: "Invalid! Please enter a valid number.\nThe smallest number is 1"

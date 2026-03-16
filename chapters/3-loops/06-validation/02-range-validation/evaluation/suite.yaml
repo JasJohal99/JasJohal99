@@ -1,0 +1,8 @@
+- tab: "Range Validation"
+  testcases:
+    - stdin: "15"
+      stdout: "You entered 15"
+    - stdin: "5\n20"
+      stdout: "Invalid! Please enter a number between 10 and 30.\nYou entered 20"
+    - stdin: "50\n3\n25"
+      stdout: "Invalid! Please enter a number between 10 and 30.\nInvalid! Please enter a number between 10 and 30.\nYou entered 25"

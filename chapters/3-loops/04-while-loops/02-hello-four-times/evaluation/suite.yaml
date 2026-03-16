@@ -1,0 +1,3 @@
+- tab: "Hello Four Times"
+  testcases:
+    - stdout: "hello\nhello\nhello\nhello"

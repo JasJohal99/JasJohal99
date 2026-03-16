@@ -1,0 +1,32 @@
+- tab: "Pounds to Kilograms"
+  testcases:
+    - stdin: "15"
+      stdout: |-
+        1 pound = 0.45 kgs
+        2 pound = 0.91 kgs
+        3 pound = 1.36 kgs
+        4 pound = 1.82 kgs
+        5 pound = 2.27 kgs
+        6 pound = 2.73 kgs
+        7 pound = 3.18 kgs
+        8 pound = 3.64 kgs
+        9 pound = 4.09 kgs
+        10 pound = 4.55 kgs
+        11 pound = 5.0 kgs
+        12 pound = 5.45 kgs
+        13 pound = 5.91 kgs
+        14 pound = 6.36 kgs
+        15 pound = 6.82 kgs
+    - stdin: "5\n10"
+      stdout: |-
+        Invalid! Please enter a value between 10 and 250.
+        1 pound = 0.45 kgs
+        2 pound = 0.91 kgs
+        3 pound = 1.36 kgs
+        4 pound = 1.82 kgs
+        5 pound = 2.27 kgs
+        6 pound = 2.73 kgs
+        7 pound = 3.18 kgs
+        8 pound = 3.64 kgs
+        9 pound = 4.09 kgs
+        10 pound = 4.55 kgs

@@ -1,0 +1,8 @@
+- tab: "Sum Until Zero"
+  testcases:
+    - stdin: "5\n3\n7\n0"
+      stdout: "The total is 15"
+    - stdin: "10\n20\n0"
+      stdout: "The total is 30"
+    - stdin: "0"
+      stdout: "The total is 0"

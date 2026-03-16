@@ -1,0 +1,8 @@
+- tab: "Factorial"
+  testcases:
+    - stdin: "5"
+      stdout: "The factorial of 5 is 120"
+    - stdin: "7"
+      stdout: "The factorial of 7 is 5040"
+    - stdin: "1"
+      stdout: "The factorial of 1 is 1"

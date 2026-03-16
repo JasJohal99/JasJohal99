@@ -1,0 +1,6 @@
+- tab: "Repeat Message"
+  testcases:
+    - stdin: "Good morning\n3"
+      stdout: "Good morning\nGood morning\nGood morning"
+    - stdin: "Hello\n2"
+      stdout: "Hello\nHello"

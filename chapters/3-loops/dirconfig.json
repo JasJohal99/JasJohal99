@@ -1,0 +1,9 @@
+{
+  "programming_language": "python",
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "access": "private",
+  "labels": ["chapter-3", "loops"]
+}

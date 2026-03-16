@@ -1,0 +1,8 @@
+- tab: "Sum and Average"
+  testcases:
+    - stdin: "5\n3\n7\n0"
+      stdout: "The total is 15\nThe average is 5.0"
+    - stdin: "10\n20\n30\n0"
+      stdout: "The total is 60\nThe average is 20.0"
+    - stdin: "4\n6\n0"
+      stdout: "The total is 10\nThe average is 5.0"
