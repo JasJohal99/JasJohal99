@@ -1,1 +1,11 @@
-{"description": {"names": {"en": "Pounds to Kilograms"}}}
+{
+  "description": {
+    "names": {
+      "en": "Pounds to Kilograms"
+    }
+  },
+  "internals": {
+    "token": "EnCjdrSbx9p4CjKB-yNMPV7NU37rufb_KbCU6FJ7HU5sbwWVpdX2PTwpTWF_4b2k",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

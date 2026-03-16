@@ -3,5 +3,9 @@
     "names": {
       "en": "Star Diamond"
     }
+  },
+  "internals": {
+    "token": "BnQFBfMcrkJpPYUhGhehgUCRHDtn2zXuX2KttRbhzjY-B-Q3N_K4nAhF47FXjrqZ",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

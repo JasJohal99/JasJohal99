@@ -1,1 +1,12 @@
-{"type": "content", "description": {"names": {"en": "Range and Type Checks"}}}
+{
+  "type": "content",
+  "description": {
+    "names": {
+      "en": "Range and Type Checks"
+    }
+  },
+  "internals": {
+    "token": "w2HVxuY2DWFqNY9X8iB_HrsmMZzNZVwuFsRkfHzPpf6bwBBHC-e3VkQRhfUd48c4",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

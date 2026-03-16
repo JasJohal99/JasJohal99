@@ -4,5 +4,9 @@
     "names": {
       "en": "Conditional Loops"
     }
+  },
+  "internals": {
+    "token": "rZwUrptiqgq-b3U2mt85dfW2cDhknXvtrhYbAqvN2z_4UviKg5WR64d6hT9pMpPw",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

@@ -3,5 +3,9 @@
     "names": {
       "en": "Times Table"
     }
+  },
+  "internals": {
+    "token": "RgayyxpezXUVgDCatJ7XRidK9miNXmVKhQ9My8XXvAK3js4dryxJ2FtbgAjXStm2",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

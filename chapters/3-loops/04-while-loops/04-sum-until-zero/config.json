@@ -3,5 +3,9 @@
     "names": {
       "en": "Sum Until Zero"
     }
+  },
+  "internals": {
+    "token": "QKFD2pCvD-bV2nBX4eqsqXUBnvrizwGGq9uCRRm_NXycXR8pu5JGtdRxHr__3M-6",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

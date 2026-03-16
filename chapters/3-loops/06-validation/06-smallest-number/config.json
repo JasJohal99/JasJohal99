@@ -1,1 +1,11 @@
-{"description": {"names": {"en": "Smallest Number"}}}
+{
+  "description": {
+    "names": {
+      "en": "Smallest Number"
+    }
+  },
+  "internals": {
+    "token": "9-3Qa-fzzwX3_wY2ShTx3EJ4eugvdcMP8_EDbWjBAZYNPEV823M9mwbjd9MQaDar",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

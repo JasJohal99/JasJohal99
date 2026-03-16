@@ -1,1 +1,11 @@
-{"description": {"names": {"en": "Range Validation"}}}
+{
+  "description": {
+    "names": {
+      "en": "Range Validation"
+    }
+  },
+  "internals": {
+    "token": "-kjw5_2nukEza-GG36xrDCaYjtSZS-Y9sfZd-jWjE3dgwajWF5BsQs2FNyi-ZiBS",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

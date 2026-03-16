@@ -1,1 +1,11 @@
-{"description": {"names": {"en": "Largest Number"}}}
+{
+  "description": {
+    "names": {
+      "en": "Largest Number"
+    }
+  },
+  "internals": {
+    "token": "tvBVH3PTff9EryJWHkexWMkxmAQkgHYZHCtZf8x7GT32GPMTmbeaawNzK8Kfs7RD",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

@@ -3,5 +3,9 @@
     "names": {
       "en": "Triangle Numbers"
     }
+  },
+  "internals": {
+    "token": "cT2KA-imhsmBnB3ZqmcXCSzZiPjct8zx5FrrnsTHXQb2T2DYyu9XSwzpcXVV8Htr",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

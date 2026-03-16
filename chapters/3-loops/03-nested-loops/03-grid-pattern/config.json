@@ -3,5 +3,9 @@
     "names": {
       "en": "Grid Pattern"
     }
+  },
+  "internals": {
+    "token": "rftRPwb7sV7F2JErkewBDdNjbJbd9VPNhYvtqz-utyUaMftiFMC-iff8ky9bUmgq",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

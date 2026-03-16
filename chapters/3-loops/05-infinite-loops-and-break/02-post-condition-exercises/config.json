@@ -4,5 +4,9 @@
     "names": {
       "en": "Post-Condition Exercises"
     }
+  },
+  "internals": {
+    "token": "Y6SgdSBrpznvHwMPgPGez9pMdckVG6zKABwiZV-KUnnNuzdZ9mnaN-ak9kNgYZqn",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

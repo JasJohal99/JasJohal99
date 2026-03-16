@@ -4,5 +4,9 @@
     "names": {
       "en": "Counter-Controlled Loops"
     }
+  },
+  "internals": {
+    "token": "c_6fXZMH_PR_Gcr7-HXfRKyZG-bMZgWHYqcSaW4JXrT6WR7UgPKfDAcFXcSNjUCW",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

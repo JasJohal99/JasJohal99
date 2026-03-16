@@ -4,5 +4,9 @@
     "names": {
       "en": "Infinite Loops and Break"
     }
+  },
+  "internals": {
+    "token": "Dy-Q-bKuFWSnfsiurdUPt3_5-tBq3FcBJNKgsJn7nyqu3wNnn8qjcYkYAN4xuNkz",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

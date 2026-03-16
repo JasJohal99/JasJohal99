@@ -4,5 +4,9 @@
     "names": {
       "en": "Range Options and Iteration"
     }
+  },
+  "internals": {
+    "token": "TKujz_ujQrQ493HwvE5WDCGkd7DvizAYgmEMiqGSTSFm8jaGVgX4Cjak_NSBGng8",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

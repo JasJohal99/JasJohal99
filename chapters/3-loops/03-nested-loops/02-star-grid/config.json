@@ -3,5 +3,9 @@
     "names": {
       "en": "Star Grid"
     }
+  },
+  "internals": {
+    "token": "bGWbMeYY-mhe29sKp2MQHUediN5AYSZ74_44Fpz4FebiPXX_vp8x3WuaGvmF-Qvi",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

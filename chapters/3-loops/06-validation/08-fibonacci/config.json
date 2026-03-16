@@ -1,1 +1,11 @@
-{"description": {"names": {"en": "Fibonacci"}}}
+{
+  "description": {
+    "names": {
+      "en": "Fibonacci"
+    }
+  },
+  "internals": {
+    "token": "P45fVuVGdainzjYCcKjZNRBThZH4Wq3Wa5H9nisxnnVWcjW5UQCR2hG_FXxwsK3R",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

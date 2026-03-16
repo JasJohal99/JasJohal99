@@ -1,1 +1,11 @@
-{"description": {"names": {"en": "Sum and Average"}}}
+{
+  "description": {
+    "names": {
+      "en": "Sum and Average"
+    }
+  },
+  "internals": {
+    "token": "GcFyNKse5WBVw2JuAA_vascw9-DnCSuRA4GdF6Emnh_cGnjkA7gEbFkSUC8wDrjP",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

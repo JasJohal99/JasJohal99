@@ -3,5 +3,9 @@
     "names": {
       "en": "Factorial"
     }
+  },
+  "internals": {
+    "token": "83-JMPjdYqszjQ8h3h4qZsq9qU-45AeiD4Kzw6NaGwQa6v-VxreXyWXYVFTbhT7D",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

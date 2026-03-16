@@ -4,5 +4,9 @@
     "names": {
       "en": "Iteration and Repetition"
     }
+  },
+  "internals": {
+    "token": "xKawaXY5Wb38SV_59k9WdmXW9yz3unRUm39xtkAsymjejYAEANwGtr6bEneFfuQM",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

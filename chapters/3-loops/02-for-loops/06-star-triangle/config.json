@@ -3,5 +3,9 @@
     "names": {
       "en": "Star Triangle"
     }
+  },
+  "internals": {
+    "token": "2i6ycy3UkV8pZKfJ9-fGAXG5gcs4rYrZrtWkr5cYzCdAS7tbMxNYMt8gdnKxu-dy",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
