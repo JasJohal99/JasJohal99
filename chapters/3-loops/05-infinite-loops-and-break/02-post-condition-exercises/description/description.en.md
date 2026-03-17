@@ -4,7 +4,7 @@ Now that you know about `while True` and `break`, try rewriting the previous exe
 
 Rewrite the "Hello Four Times" program using `while True` and `break` instead of a regular `while` loop.
 
-<details>
+<details markdown="1">
 <summary>Show solution</summary>
 
 ```python
@@ -22,7 +22,7 @@ while True:
 
 Rewrite the "Repeat Message" program using `while True` and `break`.
 
-<details>
+<details markdown="1">
 <summary>Show solution</summary>
 
 ```python
@@ -42,7 +42,7 @@ while True:
 
 Rewrite the "Sum Until Zero" program using `while True` and `break`.
 
-<details>
+<details markdown="1">
 <summary>Show solution</summary>
 
 ```python
