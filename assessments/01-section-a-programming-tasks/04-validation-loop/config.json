@@ -4,5 +4,13 @@
       "en": "Validation Loop"
     }
   },
-  "labels": ["python", "loops", "validation"]
+  "labels": [
+    "python",
+    "loops",
+    "validation"
+  ],
+  "internals": {
+    "token": "-q_xWxKsvdMNNVhzmTVya9tqA6STNpDM_ts_RC_ntvVa5gN4W8fPn6AfynWseWuv",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
 }

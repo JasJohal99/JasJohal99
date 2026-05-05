@@ -4,5 +4,12 @@
       "en": "Mini Quiz"
     }
   },
-  "labels": ["python", "selection"]
+  "labels": [
+    "python",
+    "selection"
+  ],
+  "internals": {
+    "token": "HWf2tQHVAVuG9Vdxa2jddbbzvkFRyfFhkeTaSpsaafqDBB23SmdYSr4TM2TFmGSb",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
 }

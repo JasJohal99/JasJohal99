@@ -3,5 +3,9 @@
     "names": {
       "en": "Debug the Program"
     }
+  },
+  "internals": {
+    "token": "M22XHPdiYy2JpUgNCWqxruZMU6WmzD3zzjUpRS2YEdvd-qRHxq8MVQw7A6qUbymH",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

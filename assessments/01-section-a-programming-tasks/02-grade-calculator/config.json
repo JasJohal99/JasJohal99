@@ -4,5 +4,12 @@
       "en": "Grade Calculator"
     }
   },
-  "labels": ["python", "selection"]
+  "labels": [
+    "python",
+    "selection"
+  ],
+  "internals": {
+    "token": "4NmW4X-bU8vPge5SftKpy5n-5-zzs88S4PiJEaQ6K9_DakW98gyK3_J9wY-PX5aT",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
 }
