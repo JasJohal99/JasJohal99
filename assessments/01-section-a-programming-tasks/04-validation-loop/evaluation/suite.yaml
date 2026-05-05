@@ -1,0 +1,15 @@
+- tab: "In-range first try"
+  testcases:
+    - stdin: "15\n"
+      stdout: "Thank you, you entered 15\n"
+
+- tab: "Re-prompts on out-of-range"
+  testcases:
+    - stdin: |
+        5
+        25
+        15
+      stdout: |
+        Out of range, try again.
+        Out of range, try again.
+        Thank you, you entered 15

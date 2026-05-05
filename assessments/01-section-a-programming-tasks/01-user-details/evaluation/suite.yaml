@@ -1,0 +1,7 @@
+- tab: "Standard run"
+  testcases:
+    - stdin: |
+        Alice
+        14
+      stdout: |
+        Hello Alice, you are 14 years old.

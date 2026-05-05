@@ -1,0 +1,15 @@
+- tab: "All correct"
+  testcases:
+    - stdin: |
+        12
+        Paris
+        purple
+      stdout: "You scored 3 out of 3\n"
+
+- tab: "All wrong"
+  testcases:
+    - stdin: |
+        0
+        London
+        blue
+      stdout: "You scored 0 out of 3\n"

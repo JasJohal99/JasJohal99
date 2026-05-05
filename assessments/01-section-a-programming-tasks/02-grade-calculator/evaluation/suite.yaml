@@ -1,0 +1,24 @@
+- tab: "Grade A boundary (70)"
+  testcases:
+    - stdin: "70\n"
+      stdout: "A\n"
+
+- tab: "Grade B (60)"
+  testcases:
+    - stdin: "60\n"
+      stdout: "B\n"
+
+- tab: "Grade C (45)"
+  testcases:
+    - stdin: "45\n"
+      stdout: "C\n"
+
+- tab: "Grade U (20)"
+  testcases:
+    - stdin: "20\n"
+      stdout: "U\n"
+
+- tab: "Invalid input (150)"
+  testcases:
+    - stdin: "150\n"
+      stdout: "Invalid input\n"
